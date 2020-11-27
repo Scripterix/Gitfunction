@@ -1,0 +1,13 @@
+# git init 			// Initialize local repo
+
+# git add			// Add File to Index && 
+# git add *.js 
+# git add .			// Add all
+
+# git rm --cashed index.html	// Rm File from Index
+
+# git status			// Check working tree
+
+# git commit			// Commit Changes to Index
+
+# git push			// Push to remote repo
