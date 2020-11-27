@@ -1,3 +1,5 @@
+# https://git-scm.com/doc
+
 # git init 			// Initialize local repo
 
 # git add			// Add File to Index && 
@@ -15,5 +17,7 @@
 
 # git push			// Push to remote repo
 
-# gitignore			// Create file to ignore register in 				gitignore file name the name ex; log.txt		
+# gitignore			// Create file to ignore register in 				gitignore file name the name ex; log.txt
+				all folder /dir2	
+# git branch login		// Branches = Master B - all project, working on module 				ex: login Login Branch
 
