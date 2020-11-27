@@ -28,3 +28,8 @@
 # git remote add origin https://github.com/Scripterix/gitfunction.git
 
 # git push -u orirgin master
+
+# git push        // Send after Commit
+
+# git clone       // Any repo for example
+# git clone https://github.com/bradtraversy/traversy-launcher.git 
