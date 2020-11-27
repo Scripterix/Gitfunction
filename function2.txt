@@ -1,0 +1,22 @@
+# git init 			// Initialize local repo
+
+# git add			  // Add File to Index && 
+# git add *.js 
+# git add .			// Add all
+
+# git rm --cashed index.html	// Rm File from Index
+
+# git status			// Check working tree
+
+# git commit			// Commit Changes to Index
+# i 				      // Instert 
+# :wq				      // Commit status
+# git commit -m 'Changes app.js'  // Commit Changes with Comments inline	
+
+# git push			// Push to remote repo
+
+# gitignore			// Create file to ignore register in 	gitignore file name the name ex; log.txt
+
+# git checkout login // Create and switch Branch - working for login module only commit separately
+
+# git merge login
