@@ -1,23 +1,42 @@
 # https://git-scm.com/doc
 
-# git init 			// Initialize local repo
+// Initialize local repo
+# git init 			
 
-# git add			// Add File to Index && 
+// Add File to Index && 
+# git add			
 # git add *.js 
-# git add .			// Add all
 
-# git rm --cashed index.html	// Rm File from Index
+// Add all
+# git add .			
 
-# git status			// Check working tree
+// Rm File from Index
+# git rm --cashed index.html	
 
-# git commit			// Commit Changes to Index
-# i 				// Instert 
-# :wq				// Commit status
-# git commit -m 'Changes app.js'// Commit Changes with Comments inline	
+// Check working tree
+# git status			
 
-# git push			// Push to remote repo
 
-# gitignore			// Create file to ignore register in 				gitignore file name the name ex; log.txt
-				all folder /dir2	
-# git branch login		// Branches = Master B - all project, working on module 				ex: login Login Branch
+// Commit Changes to Index
+# git commit	
+
+// Instert 
+# i 
+
+// Commit status
+# :wq	
+
+// Commit Changes with Comments inline	
+# git commit -m 'Changes app.js'
+
+
+// Push to remote repo
+# git push			
+
+// Create file to ignore register 
+// in gitignore file name the name ex; log.txt all folder /dir2
+# gitignore			 				
+	
+// Branches = Master B - all project, working on module ex: login Login Branch	
+# git branch login		
 
